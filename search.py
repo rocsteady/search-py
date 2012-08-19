@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#The following program was hacked together by members of the Python community: 
 #Candace Cheney, David Mertz, Steve Holden, Peter Banka, and Kevin Turner
 import sys
 from glob import iglob
